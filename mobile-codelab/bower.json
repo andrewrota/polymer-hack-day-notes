@@ -1,0 +1,13 @@
+{
+  "name": "mobile-codelab",
+  "description": "",
+  "homepage": "",
+  "keywords": [
+  ],
+  "author": "Andrew Rota <rota.andrew@gmail.com",
+  "private": true,
+  "dependencies": {
+    "core-elements": "Polymer/core-elements#master",
+    "font-roboto": "Polymer/font-roboto#master"
+  }
+}
